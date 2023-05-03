@@ -1,0 +1,40 @@
+*,*::before,*::after{
+
+  box-sizing: border-box;
+  
+}
+
+
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: darkcyan;
+
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+.cal{
+  
+  display: flex;
+  width: 40%;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: auto;
+}
+.cal button{
+  width: 27%;
+  height: 20%;
+  flex-basis:22%;
+}
