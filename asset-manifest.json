@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfoliosSayedMohamed/static/css/main.166ae9a0.css",
+    "main.js": "/portfoliosSayedMohamed/static/js/main.abbd0dd8.js",
+    "index.html": "/portfoliosSayedMohamed/index.html",
+    "main.166ae9a0.css.map": "/portfoliosSayedMohamed/static/css/main.166ae9a0.css.map",
+    "main.abbd0dd8.js.map": "/portfoliosSayedMohamed/static/js/main.abbd0dd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.166ae9a0.css",
+    "static/js/main.abbd0dd8.js"
+  ]
+}
